@@ -1,0 +1,52 @@
+[
+    {
+        "title": "My Updated post",
+        "content": "My first updated post!\r\n\r\nThis is exciting!",
+        "user_id": 1
+    },
+    {
+        "title": "A second post",
+        "content": "This is a post from a differnet user...",
+        "user_id": 2
+    },
+    {
+        "title": "Top five programming languages",
+        "content": "Its python, java, javascript",
+        "user_id": 1
+    },
+    {
+        "title": "Sublime Text Tips and Tricks",
+        "content": "Snippets, advanced find/replace, split editing, Emmet, code folding, Vintage Mode (Vim emulation), custom key bindings, sidebar management, Package Control for plugins, save search queries, minimap navigation, and enhanced auto-completion to optimize Sublime Text.",
+        "user_id": 1
+    },
+    {
+        "title": "Best Python IDEs",
+        "content": "Top Python IDEs include PyCharm, VS Code, Jupyter Notebook, Spyder, Atom, Thonny, and Sublime Text for various features like debugging, auto-completion, data science support, and customization.",
+        "user_id": 1
+    },
+    {
+        "title": "Flask vs Django, which is better?",
+        "content": "Flask is better for small, flexible projects with minimal setup, while Django is ideal for larger, feature-rich applications with built-in tools and an ORM",
+        "user_id": 2
+    },
+    {
+        "title": "You won't believe these clickbait titles",
+        "content": "You Won't Believe What This Celebrity Did with Their Free Time!, Doctors Hate Her for Discovering This One Simple Trick!, 10 Secrets Airlines Don’t Want You to Know!, This Weird Food Could Change Your Life Forever!, He Tried This Simple Hack – What Happened Next Will Shock You!",
+        "user_id": 2
+    },
+    {
+        "title": "How dogs in the workplace can boost productivity?",
+        "content": "Having dogs in the workplace can reduce stress, improve employee morale, and encourage social interactions, all of which boost overall productivity.",
+        "user_id": 1
+    },
+    {
+        "title": "Is DSA relevant in 2024?",
+        "content": "Yes, Data Structures and Algorithms (DSA) remain highly relevant in 2024, as they're crucial for problem-solving, optimizing code, and acing technical interviews in software development.",
+        "user_id": 1
+    },
+    {
+        "title": "Which development is better web or app?",
+        "content": "Web development is better for broad accessibility and ease of updates, while app development excels in performance and personalized user experiences on mobile devices.",
+        "user_id": 1
+    }
+]
